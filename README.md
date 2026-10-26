@@ -91,4 +91,4 @@ This project is intended for educational and learning purposes. No specific open
 ---
 
 **Author:** Ayush Garg  
-**Repository:** [Queez-25BOCN2772](https://github.com/ayushgarg7238-design/Queez-25BCON2772)
+**Repository:** https://github.com/ayushgarg7238-design?tab=repositories
